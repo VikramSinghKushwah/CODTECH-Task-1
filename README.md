@@ -1,8 +1,13 @@
-Here’s a README for your GitHub repository for the Exploratory Data Analysis (EDA) project:  
-
----
 
 # Exploratory Data Analysis (EDA) - Linear Regression Model  
+
+## Project Details  
+**Name:** Vikram Singh Kushwah  
+**Company:** CODTECH IT SOLUTIONS  
+**Employee ID:** CT12WDS90  
+**Domain:** Data Analytics  
+**Duration:** 5th December 2024 to 5th March 2025  
+**Mentor:** Neela Santhosh Kumar  
 
 ## Project Overview  
 
@@ -14,15 +19,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** and implements a lin
 - Performance evaluation using Mean Squared Error (MSE) and R-squared (R²).  
 - Data visualization with Matplotlib.  
 
-## Project Details  
-**Name:** Vikram Singh Kushwah  
-**Company:** CODTECH IT SOLUTIONS  
-**Employee ID:** CT12WDS90  
-**Domain:** Data Analytics  
-**Duration:** 5th December 2024 to 5th March 2025  
-**Mentor:** Neela Santhosh Kumar  
 
----
 
 ## Prerequisites  
 
@@ -99,22 +96,7 @@ plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', line
 plt.xlabel('Actual')
 plt.ylabel('Predicted')
 plt.show()
-```  
-
----
-
-## How to Run the Project  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your_username/eda-linear-regression.git
-   cd eda-linear-regression
-   ```  
-
-2. Run the script:  
-   ```bash
-   python eda_regression.py
-   ```  
+``` 
 
 ---
 
@@ -123,17 +105,13 @@ plt.show()
 - **Mean Squared Error**: `0.58` (example value)  
 - **R-squared**: `0.92` (example value)  
 
-Visualization Example:  
-![Regression Line](https://via.placeholder.com/600x400.png?text=Sample+Regression+Visualization)  
+## Visualization   
+![image](https://github.com/user-attachments/assets/456d6dd4-01ad-4ed0-a0e7-c5976b99a81a)
+![image](https://github.com/user-attachments/assets/09761a3a-4c65-424e-909b-1807597068c7)
 
----
 
-## Author  
 
-**Vikram Singh Kushwah**  
-CODTECH IT SOLUTIONS  
-ID: CT12WDS90  
 
----  
 
-Would you like to include more sections like challenges faced, future enhancements, or dependencies?
+
+
