@@ -103,3 +103,8 @@ plt.show()
 - **Mean Squared Error**: `0.58` (example value)  
 - **R-squared**: `0.92` (example value)  
  
+## result 
+![image](https://github.com/user-attachments/assets/6d8a0abc-6796-42e8-a1f0-29f255ad6175)
+![image](https://github.com/user-attachments/assets/4a5b02d1-7e86-4d97-9c14-1e04bd520c56)
+
+
