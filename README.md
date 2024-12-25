@@ -98,37 +98,8 @@ plt.show()
 
 ---
 
-## How to Run the Project  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your_username/eda-linear-regression.git
-   cd eda-linear-regression
-   ```  
-
-2. Run the script:  
-   ```bash
-   python eda_regression.py
-   ```  
-
----
-
 ## Sample Outputs  
 
 - **Mean Squared Error**: `0.58` (example value)  
 - **R-squared**: `0.92` (example value)  
-
-Visualization Example:  
-![Regression Line](https://via.placeholder.com/600x400.png?text=Sample+Regression+Visualization)  
-
----
-
-## Author  
-
-**Vikram Singh Kushwah**  
-CODTECH IT SOLUTIONS  
-ID: CT12WDS90  
-
----  
-
-Would you like to include more sections like challenges faced, future enhancements, or dependencies?
+ 
